@@ -1,2 +1,4 @@
-# Hello world
-## This is still WIP
+- 🔨 [Polkadot/Substrate](https://github.com/paritytech/polkadot-sdk/) Engineer
+- ⚖️ [peaq network](https://github.com/peaqnetwork) Protocol Engineer
+- 🦀 [Rust](https://www.rust-lang.org/) Enthusiast
+- :heart::bulb: Aspiring [JAM](https://search.fluffylabs.dev/) Implementor
